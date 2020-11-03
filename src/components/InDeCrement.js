@@ -7,7 +7,7 @@ const InDeCre = (props) => {
     <div>
       <div
         className='container'
-        style={{ textAlign: 'center', padding: '10em' }}
+        style={{ textAlign: 'center', padding: '5em', fontSize: '2em' }}
       >
         Current Redux Count: <span>{props.count}</span>
         <br />
